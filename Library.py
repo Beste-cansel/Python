@@ -80,5 +80,5 @@ while True:
         del lib  
         break
     else:
-        print("Invalid choice. Please enter a valid option.")
+        print("please choose one of the options in the menu")
 
